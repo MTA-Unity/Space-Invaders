@@ -12,8 +12,11 @@ Shoot: Press the spacebar to fire your spaceship's weapon.
 
 ## Gameplay
 - Start a New Game: Launch the game and select "Start" after you enter your name to begin your space adventure.
+  
 - Combat: Engage in space battles with enemy ships. Use your weapons strategically to defeat your foes while avoiding their attacks.
+  
 - Score: Track your progress and achievements through a scoring system. Compete for high scores with other players (on same device).
+  
 - Game Over: The game may end if your spaceship is destroyed.
 
 ### Prerequisites
