@@ -3,15 +3,29 @@
 
 Space theme lazer game , developed in unity platform , programmed in c#. 
 
-## Getting Started (How to import this repo unity game from the Git URL) :
+## Objective
+Defeat waves of invading space ships to protect your planet.
 
-These instructions will get you a copy of the project up and running on your local
-machine for development and testing purposes.
+## Controls
+Movement: Use the arrow keys to move your spaceship.
+Shoot: Press the spacebar to fire your spaceship's weapon.
+
+## Gameplay
+- Start a New Game: Launch the game and select "Start" after you enter your name to begin your space adventure.
+- Combat: Engage in space battles with enemy ships. Use your weapons strategically to defeat your foes while avoiding their attacks.
+- Score: Track your progress and achievements through a scoring system. Compete for high scores with other players (on same device).
+- Game Over: The game may end if your spaceship is destroyed.
 
 ### Prerequisites
 You will need:
 - Unity editor version LTS Release 2022.3.8f1.
 - C# Integrated Development Environment such as Visual Studio Code/Visual Studio/Rider.
+
+
+## Getting Started (How to import this repo unity game from the Git URL) :
+
+These instructions will get you a copy of the project up and running on your local
+machine for development and testing purposes.
 
 ### Installing 💻
 
