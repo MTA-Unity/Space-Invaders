@@ -2,13 +2,6 @@
 # 2D Unity Game Space-Invaders mid-project-2023-dor-daniel 🔫🎮
 
 Space theme lazer game , developed in unity platform , programmed in c#. 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github.com/dore96/Lazer-Defender/blob/main/pngs/lazer01.png"/></td>
-    <td valign="top"><img src="https://github.com/dore96/Lazer-Defender/blob/main/pngs/lazer03.png"/></td>
-    <td valign="top"><img src="https://github.com/dore96/Lazer-Defender/blob/main/pngs/lazer02.png"/></td>
-  </tr>
-</table>
 
 ## Getting Started (How to import this repo unity game from the Git URL) :
 
